@@ -45,6 +45,7 @@ Practical guidance for organizations to strengthen authentication security
 
 Audience
 
+
 This repository is intended for:
 
 Security engineers and analysts interested in dashboard design for policy compliance
@@ -53,12 +54,3 @@ Students and professionals studying security monitoring and SIEM implementation
 
 Organizations looking for reference material to implement MFA and access control monitoring
 
-License
-
-This repository contains educational content and proposal materials. Please credit the author if used as a reference in research or academic work.
-
-Author
-
-Najath Najeem
-Student – IT Security Management
-Sri Lanka
